@@ -1,6 +1,6 @@
 This repository maintains deep dive on how the core of SteppingCloud Product platform works.
 
-# Base Archicture of Multi-Tenancy for SteppingCloud products
+# Base Architecture of Multi-Tenancy for SteppingCloud products
 
 Hi, Let's start with the awesome journey of System desing and archicture and how we started multi-tenancy for all our products.
 
